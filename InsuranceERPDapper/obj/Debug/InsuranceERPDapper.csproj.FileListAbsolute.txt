@@ -61,3 +61,8 @@ C:\Users\Priyank\source\repos\InsuranceERPDapper\InsuranceERPDapper\obj\Debug\In
 C:\Users\Priyank\source\repos\InsuranceERPDapper\InsuranceERPDapper\obj\Debug\InsuranceERPDapper.csproj.CopyComplete
 C:\Users\Priyank\source\repos\InsuranceERPDapper\InsuranceERPDapper\obj\Debug\InsuranceERPDapper.dll
 C:\Users\Priyank\source\repos\InsuranceERPDapper\InsuranceERPDapper\obj\Debug\InsuranceERPDapper.pdb
+C:\Users\Priyank\source\repos\InsuranceERPDapper\InsuranceERPDapper\bin\fr\InsuranceERPDapper.resources.dll
+C:\Users\Priyank\source\repos\InsuranceERPDapper\InsuranceERPDapper\obj\Debug\InsuranceERPDapper.LanguageResource.Language.resources
+C:\Users\Priyank\source\repos\InsuranceERPDapper\InsuranceERPDapper\obj\Debug\InsuranceERPDapper.LanguageResource.Language.fr.resources
+C:\Users\Priyank\source\repos\InsuranceERPDapper\InsuranceERPDapper\obj\Debug\InsuranceERPDapper.csproj.GenerateResource.cache
+C:\Users\Priyank\source\repos\InsuranceERPDapper\InsuranceERPDapper\obj\Debug\fr\InsuranceERPDapper.resources.dll
